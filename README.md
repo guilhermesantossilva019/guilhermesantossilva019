@@ -6,7 +6,7 @@
 
 ![Guilherme GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermesantossilva019&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia 👩‍💻
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,6 +19,6 @@
 
 Apaixonado por tecnologia e informação, ciencia da computação e programação!
 
-### Minhas habilidades:
+### Minhas habilidades 😎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantossilva019&hide_progress=true)
