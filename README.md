@@ -17,8 +17,9 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e informação, ciencia da computação e programação!
-Em busca do topo! TMJADF 😎
+- Apaixonado por tecnologia e informação, ciencia da computação e programação. Em busca do topo! <br>
+- Tecnico em Informática e Desenvolvimento Web (Etec Francisco Garcia) 🎓
+- Progamação para Web HTML5 e CSS3 (Curso em Vídeo) 🎓
 
 ### Minhas habilidades
 
