@@ -20,7 +20,3 @@
 - Apaixonado por tecnologia e informação, ciencia da computação e programação. Em busca do topo! <br>
 - Tecnico em Informática e Desenvolvimento Web (Etec Francisco Garcia) 🎓
 - Progamação para Web HTML5 e CSS3 (Curso em Vídeo) 🎓
-
-### Minhas habilidades
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantossilva019&hide_progress=true)
