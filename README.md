@@ -18,7 +18,8 @@
 </div><br/>
 
 Apaixonado por tecnologia e informação, ciencia da computação e programação!
+Em busca do topo! TMJADF 😎
 
-### Minhas habilidades 😎
+### Minhas habilidades
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantossilva019&hide_progress=true)
