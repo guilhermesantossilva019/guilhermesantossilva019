@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Santos Silva! 👋
 
-[![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://sujeitoprogramador.com](https://main--ornate-croquembouche-99edf7.netlify.app/))
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/guilhermesantossilva)
+[![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://main--ornate-croquembouche-99edf7.netlify.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/guilhermesantossilva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/portfolio.guilhermess/)
 
 ![Guilherme GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermesantossilva019&show_icons=true&theme=dracula&count_private=true)
