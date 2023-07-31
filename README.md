@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Santos Silva! 🖐️
+## Olá! Eu sou o Guilherme Santos Silva! 👋
 
 [![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://sujeitoprogramador.com](https://main--ornate-croquembouche-99edf7.netlify.app/))
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/guilhermesantossilva)
