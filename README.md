@@ -1,5 +1,4 @@
 ## Programming Lover ❤</>💻
-## 90% do sucesso baseia-se em insistir 🏆🔥
 
 [![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://guilhermess.000webhostapp.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/guilhermesantossilva)
