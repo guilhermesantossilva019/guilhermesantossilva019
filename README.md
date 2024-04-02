@@ -1,7 +1,7 @@
 ## Programming Lover ❤</>💻
 
-<div style="width: 100%; align-itens: center;">
-  <img src="https://images4.alphacoders.com/130/thumb-1920-1307940.png" alt="tumb" style="width: 50%;">
+<div align="center">
+  <img src="https://images4.alphacoders.com/130/thumb-1920-1307940.png" alt="tumb" width="100%">
 </div>
 
 [![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://guilhermess.000webhostapp.com/)
