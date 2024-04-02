@@ -1,4 +1,4 @@
-## Programming Lover ❤</>💻
+## Programming Lover 🤍</>💻
 
 <div align="center">
   <img src="https://images4.alphacoders.com/130/thumb-1920-1307940.png" alt="tumb" width="100%">
